@@ -12,4 +12,5 @@ Lets keep a running to do list here
 * clean the data
 * Run regression models
 * Try different classification models
-* how about a random forest regression model 
+* how about a random forest regression model
+* some more stuff
