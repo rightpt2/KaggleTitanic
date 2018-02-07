@@ -1,0 +1,15 @@
+Lets keep a running to do list here
+
+* Read through and set up the git repo
+* Determine how to add Nbstripout as a pre-commit hook
+* find if there is a pre-commit hook for excel workbooks
+* Pull down the data
+* First Workbook
+* Think about steps in the analysis
+- EDA (Exploritory data analysis)
+- Order John Tukey book
+* See if there is other data we can create from the data set
+* clean the data
+* Run regression models
+* Try different classification models
+* how about a random forest regression model 
